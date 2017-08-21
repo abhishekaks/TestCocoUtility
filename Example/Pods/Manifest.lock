@@ -1,0 +1,16 @@
+PODS:
+  - TestCocoUtility (0.1.0)
+
+DEPENDENCIES:
+  - TestCocoUtility (from `../`)
+
+EXTERNAL SOURCES:
+  TestCocoUtility:
+    :path: ../
+
+SPEC CHECKSUMS:
+  TestCocoUtility: f2429152e59bfcde117f30f91461c1e41c65e391
+
+PODFILE CHECKSUM: 4e560d6be9066cbc71ba4949649d2a0a3b6bdbdf
+
+COCOAPODS: 1.2.1

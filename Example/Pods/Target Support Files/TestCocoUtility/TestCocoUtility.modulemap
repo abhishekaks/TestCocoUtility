@@ -1,0 +1,6 @@
+framework module TestCocoUtility {
+  umbrella header "TestCocoUtility-umbrella.h"
+
+  export *
+  module * { export * }
+}
